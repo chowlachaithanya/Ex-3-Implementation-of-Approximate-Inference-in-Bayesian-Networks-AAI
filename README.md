@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name: chowla chaithanya
+### Register Number: 2305002004
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -131,11 +131,9 @@ query_result=samples[query_variable].value_counts(normalize=True)
 print("\n Approximate probabilities of {}:".format(query_variable))
 print(query_result)
 ```
----
 ## Output:
-
-
----
+<img width="1194" height="721" alt="{341FF5C9-F0A0-415B-B93C-7283E19D08E3}" src="https://github.com/user-attachments/assets/1e3b03da-db7a-4765-81bc-689e3da4ff48" />
+<img width="947" height="533" alt="{D9F0FF9A-AB7C-4452-BAA5-2B57AD9B86E9}" src="https://github.com/user-attachments/assets/bb9b5b3c-e296-4531-bb7a-a574c899499f" />
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
